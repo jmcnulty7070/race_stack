@@ -186,7 +186,7 @@ rosrun tf tf_echo base_link odom to observe pose change over time
 
 ```
 Cartographer needs adjusted for low speed RPLIDAR sensored vesc and wimoton IMU
-Key Lua Parameters Overview (Code Block Format)
+Key Lua Parameters Overview (Code Block Format)   for f110_2d.lua, and f110_2d_loc.lua in racecar config (NUC2) 
 
 Parameter                                 | Typical Range | Impact / When to Tune                                 | Increment | Calibration Needed
 ---------------------------------------- | --------------|------------------------------------------------------|-----------|-------------------
