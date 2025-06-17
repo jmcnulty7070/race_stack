@@ -109,7 +109,7 @@ catkin build
 After installation you can test simulation functionalities, for example running the [time-trials](./stack_master/checklists/TimeTrials.md) or the [head-to-head](./stack_master/checklists/HeadToHead.md) checklists. For a more general overview of how to use the `race_stack` refer to the [`stack_master` README](./stack_master/README.md).
 
 ```
- Calibration of use_imu_data and use_odometry (Manual, No Bag Files)
+Calibration of use_imu_data and use_odometry (Manual, No Bag Files)
 
 Goal: Calibrate odometry and IMU parameters using simple tools and control inputs—no rosbag or playback required.
 Tools Required:
